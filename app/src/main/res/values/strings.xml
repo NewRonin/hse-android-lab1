@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowColor</string>
+    <string name="input_description">Enter \"red\", \"green\" or \"blue\"!</string>
+    <string name="input_warning">Incorrect input! Enter ONLY \"red\", \"green\" or \"blue\"!</string>
+    <string name="main_button">SHOW COLOR</string>
+    <string name="title_activity_color">ColorActivity</string>
+</resources>
